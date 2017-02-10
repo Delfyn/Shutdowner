@@ -1,4 +1,4 @@
-# Python Windows shutdown script
+# Python shutdown script
 Small script using Windows shutdown command, but with progress bar, much better..
 
 Right now only **Windows**, but **Linux** probabbly soon.
