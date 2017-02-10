@@ -21,4 +21,5 @@ Time in **seconds**
 ## Dependencies
 - progressbar2
 - shutdown
+
 Use pip, you know ;)
