@@ -3,7 +3,7 @@ Small script using Windows shutdown command, but with progress bar, much better.
 
 Right now only **Windows**, but **Linux** probabbly soon.
 ## Usage
- - shutdowner.py action time [-f -w]
+ - shutdowner.py action time [-f -i]
  
 ## Actions
 - shutdown
@@ -16,7 +16,7 @@ Time in **seconds**
 
 ## Optional parameter's
 - -f - force closing background stuff
-- -w - instant shutdown / restart
+- -i - instant shutdown / restart
 
 ## Dependencies
 - progressbar2
