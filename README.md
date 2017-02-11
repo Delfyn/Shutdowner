@@ -1,7 +1,7 @@
 # Python shutdown script
 Small script using Windows shutdown command, but with progress bar, much better..
 
-Right now only **Windows**, but **Linux** probabbly soon.
+Right now only **Windows**, **Linux** may be buggy little.
 ## Usage
  - shutdowner.py action time [-f -i]
  
